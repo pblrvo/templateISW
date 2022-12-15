@@ -11,4 +11,4 @@ clone:
 git:
 	git add .
 	git commit -m "$m"
-	git push 'https://github.com/pblrvo/templateISW.git'
+	git push 'https://pablo.rivero1:114641@git.eps.ceu.es/isw/examen/pablo.rivero1.git'

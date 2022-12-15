@@ -1,0 +1,5 @@
+raise Exception('This is broken')
+
+
+And if a function takes arguments, just pass them into assertRaises like this:
+ self.assertRaises(ExpectedException, afunction, arg1, arg2)
